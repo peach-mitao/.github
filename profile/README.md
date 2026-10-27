@@ -1,25 +1,28 @@
-<p align="center"><img src="https://peach.video/assets/peach-logo.png" width="72" alt="Peach"></p>
+<p align="center"><img src="https://peach.video/assets/peach-logo-192.webp" alt="Peach" width="88"></p>
 
-# Peach · 蜜桃
+# Peach
 
-所有片子，放进一处。
+A local-first video metadata scraper and media manager.
 
-开源、自托管的私人影片馆藏。本地硬盘、在线网盘和关注的创作者，整理合一。
+[Website](https://peach.video/) · [Download](https://github.com/peach-mitao/peach/releases) · [Live demo](https://demo.peach.video/) · [Documentation](https://github.com/peach-mitao/peach#documentation) · [简体中文](README.zh-CN.md)
 
-[官网](https://peach.video/) · [在线演示](https://demo.peach.video/) · [下载 Windows 版](https://github.com/peach-mitao/peach/releases)
+[![Release](https://img.shields.io/github/v/release/peach-mitao/peach?include_prereleases&sort=semver&label=release&logo=github)](https://github.com/peach-mitao/peach/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/peach-mitao/peach/test.yml?branch=master&label=CI&logo=githubactions&logoColor=white)](https://github.com/peach-mitao/peach/actions/workflows/test.yml)
 
-## 三个项目
+## Projects
 
-| 项目 | 内容 |
+| Project | Purpose |
 | --- | --- |
-| [Peach](https://github.com/peach-mitao/peach) | 自托管应用、前端源码、测试与发行 |
-| [peach-site](https://github.com/peach-mitao/peach-site) | 官网、产品导览与文字编辑预览 |
-| [peach-demo](https://github.com/peach-mitao/peach-demo) | 在线演示、回放 Worker 与演示交互 |
+| [Peach](https://github.com/peach-mitao/peach) | Application, downloads and documentation |
+| [Website](https://github.com/peach-mitao/peach-site) | Product tour and download pages |
+| [Live demo](https://github.com/peach-mitao/peach-demo) | Browser demo with movie sample data |
+| [Userscript](https://github.com/peach-mitao/peach-userscript) | Send video codes from supported pages to your Peach |
+| [Roadmap](https://github.com/peach-mitao/peach-roadmap) | Plans and delivery progress |
 
-三个项目公开源码。媒体、演示录制数据、账本、凭据与本地证据分别管理，不进入代码仓库。
+## Feedback
 
-## 联系与反馈
+[Report an application problem](https://github.com/peach-mitao/peach/issues/new/choose). For other projects, use the corresponding repository's Issues. Report vulnerabilities privately through the [security policy](https://github.com/peach-mitao/peach/blob/master/SECURITY.md).
 
-功能问题请在对应项目的 Issues 中反馈。安全问题请使用仓库的私密漏洞报告，避免公开数据库、Cookie、密码或文件路径。
+General contact: [contact@peach.video](mailto:contact@peach.video). Copyright requests: [website form](https://peach.video/en/copyright/) or [dmca@peach.video](mailto:dmca@peach.video).
 
-一般联系：`contact@peach.video`。版权投诉使用[官网表单](https://peach.video/copyright/)或发送至 `dmca@peach.video`。
+Use demo data in public screenshots and redact private information. Do not upload videos, databases or credentials.
