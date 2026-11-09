@@ -17,7 +17,7 @@
 | [官网](https://github.com/peach-mitao/peach-site) | 产品导览与下载页面 |
 | [演示站](https://github.com/peach-mitao/peach-demo) | 使用普通电影资料的浏览器演示 |
 | [用户脚本](https://github.com/peach-mitao/peach-userscript) | 从支持的页面向自己的 Peach 提交影片编号 |
-| [路线图](https://github.com/peach-mitao/peach-roadmap) | 开发计划与交付进度 |
+| [路线图](https://github.com/orgs/peach-mitao/projects/7) | 开发计划与交付进度 |
 
 ## 反馈
 
