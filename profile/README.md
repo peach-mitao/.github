@@ -17,7 +17,7 @@ A local-first video metadata scraper and media manager.
 | [Website](https://github.com/peach-mitao/peach-site) | Product tour and download pages |
 | [Live demo](https://github.com/peach-mitao/peach-demo) | Browser demo with movie sample data |
 | [Userscript](https://github.com/peach-mitao/peach-userscript) | Send video codes from supported pages to your Peach |
-| [Roadmap](https://github.com/peach-mitao/peach-roadmap) | Plans and delivery progress |
+| [Roadmap](https://github.com/orgs/peach-mitao/projects/7) | Plans and delivery progress |
 
 ## Feedback
 
